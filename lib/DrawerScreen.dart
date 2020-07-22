@@ -16,7 +16,7 @@ class _DrawerScreenState extends State<DrawerScreen> {
        crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           Container(
-            child: Image.asset("asset/images.png",fit: BoxFit.cover,),
+            child: Image.asset("assets/lion3.jpeg",fit: BoxFit.cover,),
             margin: EdgeInsets.only(top: 30, left: 10),
             color: Colors.yellow,
             height: 200,
